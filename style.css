@@ -258,13 +258,13 @@ button:hover {
     display: block;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1440px) {
     .filmes {
         display: block;
     }
 
     .footer2 {
-        position: relative;
+        position: absolute;
     }
 
     .texto {
